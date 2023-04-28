@@ -9,7 +9,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-test conflit
+test conflit local
+test modifié sur github directement
+
 
 ```
 A définir
